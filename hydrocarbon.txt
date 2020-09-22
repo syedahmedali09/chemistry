@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hydrocabon is the combination of hydrogen and carbon more added 
                                               
+=======
+hyrocarbon is combination of carbon and hydrogen
+>>>>>>> dev
