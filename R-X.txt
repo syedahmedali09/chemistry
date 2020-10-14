@@ -1,3 +1,5 @@
 this is halide group   
 
-working                     
+working
+
+chemistry have long range                     
